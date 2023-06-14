@@ -1,0 +1,18 @@
+{
+  "name": "simple-grid-component",
+  "version": "1.0.0",
+  "description": "Simple reusable web component to render a grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpnsingh/simple-grid-component.git"
+  },
+  "author": "jpnsingh",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
